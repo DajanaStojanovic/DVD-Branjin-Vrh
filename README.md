@@ -3,7 +3,7 @@ Ova web aplikacija je nastala sklopu kolegija Baze podataka, a i za potrebe Dobr
 
 
 ##Stranica
->Klikom na ovaj <a href="oziz.ffos.hr/OMS20142015/0122215826/dvdbranjinvrh">link</a> možete vidjeti kako stranica trenutno izgleda.
+>Klikom na ovaj <a href="oziz.ffos.hr/OMS20142015/0122215826/dvdbranjinvrh_1">link</a> možete vidjeti kako stranica trenutno izgleda.
 
 ##O stranici
 ### Tehničke stvari
